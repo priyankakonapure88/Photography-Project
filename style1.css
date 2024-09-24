@@ -1,0 +1,245 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sec1{
+    background-image: url(/assests/images/background/big_image_1.jpg);
+    background-size: cover;
+    height: 70rem;
+    background-attachment: fixed;
+}
+
+
+.aa,.ab,.ac,.ad{
+    background-image: url(/assests/images/background/big_image_3.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: auto;
+}
+.nn{
+  font-size: 100px;
+  font-family: "Source Sans Pro", arial;
+  font-weight: 900;
+  font-style: normal;
+}
+.para1{
+font-size: 30px;
+font-style: normal;
+font-weight: 300;
+line-height: 45px;
+color:rgb(255, 255, 255) ;
+}
+
+.sec3{
+  background-image: url(/assests/images/background/big_image_3.jpg);
+  width: auto;
+  height: 500px;
+  background-attachment: fixed;
+}
+.foot1{
+  background-image: url(/assests/images/background/big_image_3.jpg);
+  width: auto;
+  height: 500px;
+}
+.heading2{
+  padding: 0px -100px;
+}
+.main-nav{
+  font-size: 200px;
+}
+.heading{
+  margin-top: 200px;
+  font-size: 60px;
+ 
+}
+.sec4{
+  margin: 10px 0px;
+
+}
+.p{
+  margin-left: 100px;
+}
+.AB{
+  margin-top: 100px;
+  margin-left: 80px;
+}
+.cc{
+  border-left: 15px solid gainsboro;
+  margin-left:150px;
+  margin-top: 200px;
+  margin-right: 0px;
+  font-size: 20px;
+  
+}
+.cd{
+  margin-left:270px;
+  margin-top: 200px;
+}
+.foot2{
+padding-top: 30px;
+padding-left: 200px;
+}
+.foot3,.foot4 ,.foot5{
+  padding-top: 30px;
+  line-height: 30px;
+}
+.end{
+  padding-left: 200px;
+}
+.aa{
+  padding:0 10px;
+    text-align: center;
+
+}
+.aa i.fa{
+  
+  color:white;
+  font-size: 40px;
+  margin: 5px;
+}
+
+.ab{
+  padding: 0 10px;
+    text-align: center;
+
+}
+.ab i.fa{
+  
+  color:white;
+  font-size: 40px;
+  margin: 5px;
+}
+.ac{
+  padding: ;
+  padding: 0 10px;
+    text-align: center;
+
+}
+.ac i.fa{
+  
+  color:white;
+  font-size: 40px;
+  margin: 5px;
+}
+.ad{
+  padding: 0px;
+    text-align: center;
+
+}
+.ad i.fa{
+  
+  color:white;
+  font-size: 40px;
+  margin: 5px;
+}
+.ba{
+  padding: 0px;
+    text-align:left;
+
+}
+.ba i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bb{
+  padding: 0px;
+    text-align:left;
+
+}
+.bb i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bc{
+  padding: 0px;
+    text-align:left;
+
+}
+.bc i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bd{
+  padding: 0px;
+    text-align:left;
+
+}
+.bd i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.be{
+  padding: 0px;
+    text-align:left;
+
+}
+.be i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bf{
+  padding: 0px;
+    text-align:left;
+
+}
+.bf i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bg{
+  padding: 0px;
+    text-align:left;
+
+}
+.bg i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bh{
+  padding: 0px;
+    text-align:left;
+
+}
+.bh i.fa{
+  
+  color:cornflowerblue;
+  font-size: 30px;
+  margin: 5px;
+}
